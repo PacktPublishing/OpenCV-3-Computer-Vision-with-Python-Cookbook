@@ -1,0 +1,27 @@
+9 6
+left01.png
+right01.png
+left02.png
+right02.png
+left03.png
+right03.png
+left04.png
+right04.png
+left05.png
+right05.png
+left06.png
+right06.png
+left07.png
+right07.png
+left08.png
+right08.png
+left09.png
+right09.png
+left11.png
+right11.png
+left12.png
+right12.png
+left13.png
+right13.png
+left14.png
+right14.png
